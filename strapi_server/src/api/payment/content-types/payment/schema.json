@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "payments",
+  "info": {
+    "singularName": "payment",
+    "pluralName": "payments",
+    "displayName": "payment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "stripeid": {
+      "type": "text"
+    },
+    "products": {
+      "type": "json"
+    }
+  }
+}

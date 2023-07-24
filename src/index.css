@@ -1,0 +1,38 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@layer base {
+  body {
+    @apply font-primary bg-body text-white;
+  }
+  .h2 {
+    @apply text-3xl capitalize;
+  }
+  .grad {
+    @apply bg-gradient-to-t from-[#1F2126] to-[#33363D] drop-shadow-2xl;
+  }
+  .btn {
+    @apply h-[50px] flex justify-center items-center rounded-[8px] px-10 py-[10px] text-sm uppercase font-bold;
+  }
+  .btn-accent {
+    @apply bg-accent text-primary hover:bg-accent-hover transition-all;
+  }
+  .input {
+    @apply h-[50px] rounded-[8px] w-full outline-none px-6 text-primary;
+  }
+  
+}
+
+.circle {
+  border-radius: 9999px; 
+}
+
+.circle:focus {
+  outline: none !important; 
+  box-shadow: 0 0 0 3px rgba(52, 144, 220, 0.5);
+}
