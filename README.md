@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shimupan">
-    <img src="./public/readme/86096.png" alt="Logo" width="80" height="80">
+    <img src="./public/readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Watchy</h3>
@@ -39,12 +39,10 @@
 
 ### Home Page
 <img src="./public/readme/HomePage.png">
-<br/>
 
 ### Home Page (Cont.)
 
 <img src="./public/readme/Footer.png">
-<br/>
 
 ### Footer
 
@@ -130,8 +128,6 @@ Make sure you have npm installed
 4. Head to `http://localhost:1337` and make an account (credentials dont matter)
 
 5. Go to `settings -> API Tokens -> Create new API Token`
-<br/>
-<br/>
 <img src="./public/readme/API_TOKEN.png"/>
 
     ```
