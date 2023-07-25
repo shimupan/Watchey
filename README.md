@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shimupan">
-    <img src="./public/readme/86096.png" alt="Logo" width="80" height="80">
+    <img src="./public/readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Watchy</h3>
