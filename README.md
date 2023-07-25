@@ -39,15 +39,12 @@
 
 ### Home Page
 <img src="./public/readme/HomePage.png">
-<br/>
 
 ### Home Page (Cont.)
 
 <img src="./public/readme/Footer.png">
-<br/>
 
 ### Footer
-
 <img src="./public/readme/ProductPage.png">
 
 <br/>
@@ -160,8 +157,7 @@ Make sure you have npm installed
 1. Within Strapi admin panel, upload assets into the `Media Library`
 <img src="./public/readme/media_library.png"/>
 2. Then head to `Content Manager -> product -> Create an entry`
-
-    <img src="./public/readme/product.png"/>
+<img src="./public/readme/product.png"/>
     
     ```
     To create a new brand, head to category instead of product and create a new
