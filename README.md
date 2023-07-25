@@ -30,31 +30,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
 
 
 
@@ -64,12 +40,10 @@
 ### Home Page
 <img src="./public/readme/HomePage.png">
 <br/>
-<br/>
 
 ### Home Page (Cont.)
 
 <img src="./public/readme/Footer.png">
-<br/>
 <br/>
 
 ### Footer
@@ -159,13 +133,13 @@ Make sure you have npm installed
 <br/>
 <br/>
 <img src="./public/readme/API_TOKEN.png"/>
+
     ```
     Name: (any)
     Token duration: Unlimited
     Token type: Full access (important)!!
     ```
 
-    <img src="./public/readme/create_api_token.png"/>
 6. Copy the API token once you press save and `cd ..` in terminal into the root directory
 
 7. Make a `config.ts` file in the root of the file and populate it with
@@ -185,20 +159,14 @@ Make sure you have npm installed
 ## Adding New Content
 
 1. Within Strapi admin panel, upload assets into the `Media Library`
-<br/>
-<br/>
 <img src="./public/readme/media_library.png"/>
 2. Then head to `Content Manager -> product -> Create an entry`
-<br/>
-<br/>
 <img src="./public/readme/product.png"/>
     ```
     To create a new brand, head to category instead of product and create a new
     entry there with the brand name
     ```
 3. Fill out the Img, Name, Description, Price, etc.
-<br/>
-<br/>
 <img src="./public/readme/create.png"/>
     ```
     Important to add relation to a brand
@@ -214,7 +182,7 @@ Make sure you have npm installed
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Showcase
 
 ### Mobile View
 
