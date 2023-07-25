@@ -56,8 +56,8 @@ Checkouts are made possible using Stripe and a headless CMS used to manage produ
 <br/>
 Admin panel available, making it easy to add new products whenever needed.
 <br/>
-
-<a href="youtube.com">Visit the live Project here!</a>
+<br/>
+<a href="https://watchey-live.vercel.app">Visit the live Project here!</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,22 +157,20 @@ Make sure you have npm installed
 1. Within Strapi admin panel, upload assets into the `Media Library`
 <img src="./public/readme/media_library.png"/>
 2. Then head to `Content Manager -> product -> Create an entry`
-<img src="./public/readme/product.png"/>
     ```
     To create a new brand, head to category instead of product and create a new
     entry there with the brand name
     ```
+<img src="./public/readme/product.png"/>
 3. Fill out the Img, Name, Description, Price, etc.
-<img src="./public/readme/create.png"/>
     ```
     Important to add relation to a brand
     ```
-
+<img src="./public/readme/create.png"/>
 4. Press save and publish
     ```
     Done! Your product has been uploaded onto the store!
     ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
