@@ -130,9 +130,8 @@ Make sure you have npm installed
 4. Head to `http://localhost:1337` and make an account (credentials dont matter)
 
 5. Go to `settings -> API Tokens -> Create new API Token`
-<br/>
-<br/>
-<img src="./public/readme/API_TOKEN.png"/>
+
+    <img src="./public/readme/API_TOKEN.png"/>
 
     ```
     Name: (any)
@@ -161,13 +160,18 @@ Make sure you have npm installed
 1. Within Strapi admin panel, upload assets into the `Media Library`
 <img src="./public/readme/media_library.png"/>
 2. Then head to `Content Manager -> product -> Create an entry`
-<img src="./public/readme/product.png"/>
+
+    <img src="./public/readme/product.png"/>
+    
     ```
     To create a new brand, head to category instead of product and create a new
     entry there with the brand name
     ```
+    
 3. Fill out the Img, Name, Description, Price, etc.
-<img src="./public/readme/create.png"/>
+
+    <img src="./public/readme/create.png"/>
+    
     ```
     Important to add relation to a brand
     ```
