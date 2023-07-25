@@ -155,22 +155,23 @@ Make sure you have npm installed
 ## Adding New Content
 
 1. Within Strapi admin panel, upload assets into the `Media Library`
-<img src="./public/readme/media_library.png"/>
 2. Then head to `Content Manager -> product -> Create an entry`
     ```
     To create a new brand, head to category instead of product and create a new
     entry there with the brand name
     ```
-<img src="./public/readme/product.png"/>
 3. Fill out the Img, Name, Description, Price, etc.
     ```
     Important to add relation to a brand
     ```
-<img src="./public/readme/create.png"/>
 4. Press save and publish
     ```
     Done! Your product has been uploaded onto the store!
     ```
+<img src="./public/readme/media_library.png"/>
+<img src="./public/readme/product.png"/>
+<img src="./public/readme/create.png"/>
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
