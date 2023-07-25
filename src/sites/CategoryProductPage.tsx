@@ -4,7 +4,7 @@ import fetchData from "../utils/fetchData";
 
 import { ShowcaseNavigation, Products } from "../components";
 
-export default function ProductPage() {
+export default function CategoryProductPage() {
 
     const { id } = useParams();
     

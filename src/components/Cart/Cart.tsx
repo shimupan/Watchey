@@ -7,12 +7,14 @@ import { request } from "../../utils/fetchData"
 import { cartState } from "./CartInventory";
 import { CartProducts } from "..";
 
+import { config } from "../../../config";
+
 export default function Cart() {
 
     const { setMenuOpen, currCart, price, clearCart } = useContext(cartState);
 
     const stripePromise = loadStripe(
-        "pk_test_51NX3uLK25yCojh4UISiafTFUUVjzvaoye5b0yMuKPu7cugWPyE0JvdEHCL7R1fO6E5r6fvRZjWSPZsyEodp5YbcF00zxGHIE0f"
+        config.STRIPE_PUBLIC_KEY
     );
 
     const handlePayment = async () => {
