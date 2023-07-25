@@ -103,7 +103,7 @@ Make sure you have npm installed
     npm i
    ```
 
-### Setup Strapi Server
+## Setup Strapi Server
 
 1. `cd strapi_server` again and create a .env file with this template
     ```
